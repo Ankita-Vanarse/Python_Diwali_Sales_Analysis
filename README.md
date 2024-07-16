@@ -60,7 +60,7 @@ The project is structured as follows:
    ```
 2. **Navigate to the Project Directory**
    ```bash
-   cd diwali-sales-analysis
+   cd Python_diwali-sales-analysis
    ```
 3. **Install Required Libraries**
    ```bash
